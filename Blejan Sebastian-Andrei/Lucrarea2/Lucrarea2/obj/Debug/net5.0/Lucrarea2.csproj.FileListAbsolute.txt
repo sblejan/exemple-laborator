@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Lucrarea2\Lucrarea2\obj\Debug\net5.0\Lucrarea2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lucrarea2\Lucrarea2\obj\Debug\net5.0\Lucrarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lucrarea2\Lucrarea2\obj\Debug\net5.0\Lucrarea2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lucrarea2\Lucrarea2\obj\Debug\net5.0\Lucrarea2.AssemblyInfo.cs
+C:\Users\User\source\repos\Lucrarea2\Lucrarea2\obj\Debug\net5.0\Lucrarea2.csproj.CoreCompileInputs.cache
